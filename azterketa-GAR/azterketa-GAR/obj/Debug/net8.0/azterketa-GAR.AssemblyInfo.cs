@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azterketa-GAR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131a0dcf999be0d293a4d2264494777117d752b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7667172b888938d9a0bd5f3dfb5f2fbd52887b30")]
 [assembly: System.Reflection.AssemblyProductAttribute("azterketa-GAR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azterketa-GAR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
