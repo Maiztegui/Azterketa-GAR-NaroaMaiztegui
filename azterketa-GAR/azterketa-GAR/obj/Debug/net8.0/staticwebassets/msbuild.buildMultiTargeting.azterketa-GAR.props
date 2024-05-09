@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azterketa-GAR.props" />
+</Project>
